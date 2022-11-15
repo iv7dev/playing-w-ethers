@@ -1,9 +1,9 @@
 {
-  "name": "jugando-w-ethersjs",
+  "name": "playing-w-ethersjs",
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "iv7dev",
   "license": "ISC",
   "description": "",
   "dependencies": {
