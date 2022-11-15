@@ -3,7 +3,7 @@ const { ethers } = require("ethers");
 // connect to metamask
 // const provider = new ethers.providers.Web3Provider(window.ethereum)
 //connect to rpc server
-const rpcUrl = "https://polygon-rpc.com";
+const rpcUrl = "https://bsc-dataseed.binance.org/"; // bnb
 const contractWallet = "0x96734B59e5C44cCBE026D835e090a96F9f1B69FD";
 const provider = new ethers.providers.JsonRpcProvider(rpcUrl);
 
